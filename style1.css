@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+img {height: 200px;}
+.pozadina {
+	background-image: url("slike i pdf/pexels-meruyert-gonullu-7698069.jpg");}
+p, h3 {
+	color: rgba(11,10,53,1.00);
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: rgba(255,88,0,0.70);
+	padding: 20px;
+}
+h1, h2 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	color: rgba(33,104,106,1.00);
+	background-color: rgba(255,255,255,0.50);
+	line-height: 30px;
+	width: 600px;	
+}
+a:link {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+.novi_blok {
+	background-color: rgba(255, 255, 255, 0.9);
+	padding: 20px;
+	margin: 20px;
+	width: 50%; }
+a:hover{
+	background-color: darkslategray;}
